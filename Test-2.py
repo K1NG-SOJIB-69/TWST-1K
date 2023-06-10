@@ -1134,7 +1134,7 @@ def bd():
 		print(logo)
 		tl = str(len(uid))
 		print('[•] Total Acounts : '+tl)
-		print('[•] Selected Code : \x1b[1;92m'+code)
+		print('[•] Selected Code : \x1b[1;92m+code)
 		print('\x1b[1;91m[•] If you no result use flight mode')
 		linex()
 		for guru in uid:
